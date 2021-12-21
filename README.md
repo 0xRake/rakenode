@@ -1,4 +1,6 @@
 ### @dev
+
+##### Word of Warning to all would be warriors: Don't freak out and, don't touch anything.
 ```
 - Python, Rust, Go, Swift, Node
 - I run my own data-center(and have done so since 2015);
